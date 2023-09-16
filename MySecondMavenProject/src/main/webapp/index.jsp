@@ -13,6 +13,7 @@
 <tr><td>Git Key: </td><td><input type="text" name="uname"></td></tr>
 <tr><td>Eclipse Key: </td><td><input type="text" name="uname"></td></tr>
 <tr><td>Second Password: </td><td><input type="password" name="password"></td></tr>
+<tr><td>New Password: </td><td><input type="password" name="password"></td></tr>
 <tr><td>Email: </td><td><input type="text" name="email"></td></tr>
 <tr><td>TestMail </td><td><input type="text" name="email"></td></tr>
 <tr><td>phone: </td><td><input type="text" name="phone"></td></tr>
