@@ -12,10 +12,10 @@ public class SeleniumIntroduction {
 		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\srinivas\\Downloads\\chromedriver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com");
-		driver.navigate();
+		//driver.navigate();
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
-		driver.close();
+		//driver.close();
 		driver.quit();
 
 	}
