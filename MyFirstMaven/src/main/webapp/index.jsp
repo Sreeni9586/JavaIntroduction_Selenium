@@ -14,7 +14,7 @@
 <tr><td>Email: </td><td><input type="text" name="email"></td></tr>
 <tr><td>TestMail </td><td><input type="text" name="email"></td></tr>
 <tr><td>phone: </td><td><input type="text" name="phone"></td></tr>
-<tr><td></td><td><input type="submit" value="register"></td></tr>
+<tr><td></td><td><input type="submit" value="register123"></td></tr>
 </table>
 </form>
 </body>

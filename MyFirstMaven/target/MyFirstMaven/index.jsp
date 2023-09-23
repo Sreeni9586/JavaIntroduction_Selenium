@@ -4,21 +4,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>My Demo Application</title>
+<title>Insert title here</title>
 </head>
 <body>
 <form action="Register" method="post">
 <table>
-<tr><td>Second User Name: </td><td><input type="text" name="uname"></td></tr>
-<tr><td>Git Key: </td><td><input type="text" name="uname"></td></tr>
-<tr><td>Eclipse Key: </td><td><input type="text" name="uname"></td></tr>
-<tr><td>Second Password: </td><td><input type="password" name="password"></td></tr>
-<tr><td>New Password: </td><td><input type="password" name="password"></td></tr>
+<tr><td>User Name: </td><td><input type="text" name="uname"></td></tr>
+<tr><td>Password: </td><td><input type="password" name="password"></td></tr>
 <tr><td>Email: </td><td><input type="text" name="email"></td></tr>
 <tr><td>TestMail </td><td><input type="text" name="email"></td></tr>
 <tr><td>phone: </td><td><input type="text" name="phone"></td></tr>
-<tr><td></td><td><input type="submit" value="Register"></td></tr>
-<tr><td></td><td><input type="submit" value="Sign in"></td></tr>
+<tr><td></td><td><input type="submit" value="register"></td></tr>
 </table>
 </form>
 </body>
