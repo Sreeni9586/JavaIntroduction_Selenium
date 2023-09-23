@@ -15,7 +15,7 @@ public class SeleniumIntroduction {
 		driver.navigate();
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
-		//driver.close();
+		driver.close();
 		driver.quit();
 
 	}
